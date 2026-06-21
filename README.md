@@ -121,29 +121,32 @@ That is the lens behind my work: using **LLMs**, **retrieval-augmented generatio
 | **Roylithia Scribe** | AI-powered academic writing: outlines, research, content generation, citations, and structured drafting. | Next.js · LLMs · RAG | [scribe.roylithia.com](https://scribe.roylithia.com) |
 | **Roylithia Academy** | AI-powered learning platform with intelligent study tools and academic resources. | Next.js · AI Agents · EdTech | [academy.roylithia.com](https://academy.roylithia.com) |
 
-## GitHub Analytics
+## Product Engineering in Motion
+
+Most of my active work is in the Roylithia Scribe and Roylithia Academy codebases: frontend, backend, AI orchestration, product flows, academic generation systems, and student-facing UX.
+
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Dashboards, editors, learning interfaces, academic writing workflows, responsive product UI.</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>APIs, persistence, project generation, research pipelines, user workflows, production reliability.</td>
+</tr>
+<tr>
+<td><strong>AI Systems</strong></td>
+<td>LLM orchestration, RAG, citation-aware writing, academic content generation, evaluation-focused workflows.</td>
+</tr>
+<tr>
+<td><strong>Product</strong></td>
+<td>Turning student pain points into usable tools for research, writing, learning, and productivity.</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Davidnsude951&show_icons=true&hide_border=true&bg_color=1A2820&title_color=D4AF37&icon_color=4A7C62&text_color=F4F7F6&ring_color=326B52&border_radius=12"
-  height="165"
-  alt="David Nsude GitHub stats"
-/>
-&nbsp;
-<img
-  src="https://github-readme-streak-stats.demolab.com/?user=Davidnsude951&background=1A2820&ring=326B52&fire=D4AF37&currStreakLabel=4A7C62&sideLabels=8B9E8F&currStreakNum=F4F7F6&sideNums=F4F7F6&dates=8B9E8F&border_radius=12&hide_border=true"
-  height="165"
-  alt="David Nsude GitHub streak"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidnsude951&layout=compact&hide_border=true&bg_color=1A2820&title_color=D4AF37&text_color=F4F7F6&langs_count=8&border_radius=12&card_width=420"
-  height="165"
-  alt="David Nsude top languages"
-/>
+<img src="https://ghchart.rshah.org/4A7C62/Davidnsude951" alt="David Nsude GitHub contribution chart" width="100%" />
 
 </div>
 
