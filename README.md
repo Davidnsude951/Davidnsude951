@@ -1,65 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:D6AD63&height=200&section=header&text=David%20Nsude&fontSize=46&fontColor=FAF7F1&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Startup%20Founder&descAlignY=58&descSize=18&descColor=EFE9DE" width="100%" alt="David Nsude banner" />
+<!-- ═══════════════════════════════════════════════════════════
+     HERO
+     ═══════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1816,50:2A2520,100:D6AD63&height=260&section=header&text=David%20Nsude&fontSize=52&fontColor=FAF7F1&fontAlignY=36&animation=fadeIn&stroke=00000000"
+  width="100%"
+  alt="David Nsude"
+/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:1A1816&height=52&section=header&text=Software%20Engineer%20%C2%B7%20AI%20Product%20Builder%20%C2%B7%20Startup%20Founder&fontSize=17&fontColor=D6AD63&fontAlignY=50&stroke=00000000"
+  width="100%"
+  alt="Software Engineer · AI Product Builder · Startup Founder"
+/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=D6AD63&center=true&vCenter=true&width=600&lines=Founder+%40+Roylithia+Global+Technologies;Building+AI-Powered+EdTech+from+Nigeria;Software+Engineer+%7C+AI+Product+Builder;Medical+Radiography+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=D6AD63&center=true&vCenter=true&width=640&lines=Founder+%40+Roylithia+Global+Technologies;Building+AI-Powered+EdTech+from+Nigeria;Software+Engineer+%7C+AI+Product+Builder;Medical+Radiography+Student;Scaling+Roylithia+Scribe+%26+Academy)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<!-- Snake border profile ring -->
+<img
+  src="https://raw.githubusercontent.com/Davidnsude951/Davidnsude951/output/github-contribution-grid-snake-dark.svg"
+  alt="Contribution snake animation"
+  width="100%"
+/>
 
 <br/>
 
-[![Location](https://img.shields.io/badge/Based_in-Abuja%2C_Nigeria-0D1117?style=flat-square&logo=googlemaps&logoColor=D6AD63)](#)
-[![Status](https://img.shields.io/badge/Status-Building_Roylithia-0D1117?style=flat-square&logo=rocket&logoColor=D6AD63)](#)
-[![Open To](https://img.shields.io/badge/Open_to-Collaboration_%26_Opportunities-0D1117?style=flat-square&logo=handshake&logoColor=D6AD63)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Davidnsude951&style=flat-square&color=D6AD63&label=Profile+Views)
+[![Location](https://img.shields.io/badge/Based_in-Abuja,_Nigeria-1A1816?style=for-the-badge&logo=googlemaps&logoColor=D6AD63&labelColor=0D1117)](https://maps.google.com/?q=Abuja,Nigeria)
+[![Status](https://img.shields.io/badge/Status-Building_Roylithia-1A1816?style=for-the-badge&logo=rocket&logoColor=D6AD63&labelColor=0D1117)](https://scribe.roylithia.com)
+[![Open To](https://img.shields.io/badge/Open_to-Collaboration_%26_Opportunities-1A1816?style=for-the-badge&logo=handshake&logoColor=D6AD63&labelColor=0D1117)](mailto:davidnsude951@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Davidnsude951&label=Profile+Views&color=D6AD63&style=for-the-badge&labelColor=0D1117)](https://github.com/Davidnsude951)
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT
+     ═══════════════════════════════════════════════════════════ -->
 
-I'm a Software Engineer, AI Product Builder, and Startup Founder from Nigeria, currently balancing a Medical Radiography degree with building production AI systems. I design and ship full-stack, AI-powered products end-to-end — architecture, backend, frontend, and the language-model pipelines that hold them together.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D6AD63,100:1A1816&height=3&section=header&stroke=00000000" width="100%" alt="divider"/>
 
-I'm the founder of **Roylithia Global Technologies**, where I build AI-powered education products that help students learn, research, and write more effectively.
+<br/>
 
-```text
+### About Me
+
+I'm a **Software Engineer**, **AI Product Builder**, and **Startup Founder** from Nigeria — balancing a Medical Radiography degree with shipping production AI systems end-to-end: architecture, backend, frontend, and the language-model pipelines that hold them together.
+
+Founder of **[Roylithia Global Technologies](https://scribe.roylithia.com)** — building AI-powered education products that help students learn, research, and write more effectively.
+
+```typescript
 const david = {
-    role: ["Software Engineer", "AI Product Builder", "Startup Founder"],
-    field: "Educational Technology",
-    background: "Medical Radiography Student",
-    location: "Abuja, Nigeria",
-    currentFocus: "Scaling Roylithia Scribe & Roylithia Academy",
-    interests: ["LLMs", "RAG", "AI Agents", "Human-Centered Product Design"]
+  role: ["Software Engineer", "AI Product Builder", "Startup Founder"],
+  company: "Roylithia Global Technologies",
+  field: "Educational Technology",
+  background: "Medical Radiography Student",
+  location: "Abuja, Nigeria",
+  currentFocus: ["Roylithia Scribe", "Roylithia Academy"],
+  interests: ["LLMs", "RAG", "AI Agents", "Human-Centered Product Design"],
 };
 ```
 
 <br/>
 
-## 🏛️ Founder — Roylithia Global Technologies
+<!-- ═══════════════════════════════════════════════════════════
+     PRODUCTS
+     ═══════════════════════════════════════════════════════════ -->
 
-I founded **Roylithia Global Technologies** to build AI-powered education technology that actually helps students get unstuck — with research, with writing, and with learning itself. As the sole founder and engineer, I own everything from product strategy and system architecture to the AI pipelines and the UI students touch every day.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:D6AD63&height=48&section=header&text=%F0%9F%8F%9B%EF%B8%8F%20Founder%20%E2%80%94%20Roylithia%20Global%20Technologies&fontSize=20&fontColor=FAF7F1&fontAlignY=55&stroke=00000000" width="100%" alt="Founder — Roylithia Global Technologies"/>
+
+<br/>
+
+I founded **Roylithia Global Technologies** to build AI-powered education technology that actually helps students get unstuck — with research, with writing, and with learning itself. As sole founder and engineer, I own everything from product strategy and system architecture to the AI pipelines and the UI students touch every day.
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Roylithia Scribe
+#### Roylithia Scribe
 **AI-Powered Academic Writing Platform**
 
-Helps students and researchers generate outlines, conduct research, create academic content, manage citations, and stay productive from first draft to final submission.
+Outlines, research, content generation, citations, and productivity — from first draft to final submission.
 
-[![Visit Scribe](https://img.shields.io/badge/Visit-scribe.roylithia.com-0D1117?style=flat-square&logo=googlechrome&logoColor=D6AD63)](https://scribe.roylithia.com)
+<br/>
+
+[![Visit Scribe](https://img.shields.io/badge/Visit-scribe.roylithia.com-D6AD63?style=for-the-badge&logo=googlechrome&logoColor=1A1816&labelColor=0D1117)](https://scribe.roylithia.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Roylithia Academy
+#### Roylithia Academy
 **AI-Powered Learning Platform**
 
-Helps university students learn more effectively through intelligent study tools, academic resources, and AI-assisted, personalized learning workflows.
+Intelligent study tools, academic resources, and AI-assisted personalized learning workflows for university students.
 
-[![Visit Academy](https://img.shields.io/badge/Visit-academy.roylithia.com-0D1117?style=flat-square&logo=googlechrome&logoColor=D6AD63)](https://academy.roylithia.com)
+<br/>
+
+[![Visit Academy](https://img.shields.io/badge/Visit-academy.roylithia.com-D6AD63?style=for-the-badge&logo=googlechrome&logoColor=1A1816&labelColor=0D1117)](https://academy.roylithia.com)
 
 </td>
 </tr>
@@ -67,15 +111,31 @@ Helps university students learn more effectively through intelligent study tools
 
 <br/>
 
-## 🧠 Building AI-Powered Education Technology
+<!-- ═══════════════════════════════════════════════════════════
+     PHILOSOPHY
+     ═══════════════════════════════════════════════════════════ -->
 
-Education is a diagnostics problem before it's a content problem — most students don't fail because resources don't exist, they fail because the right help doesn't arrive at the right moment. That's the lens I build through: using LLMs, retrieval-augmented generation, and agentic workflows not as novelty features, but as infrastructure that gives every student access to research support, feedback, and structure that used to require a tutor, an editor, or a senior colleague standing over their shoulder.
+<details open>
+<summary><b>Building AI-Powered Education Technology</b></summary>
+<br/>
 
-I care about AI products that are evaluated rigorously, not just shipped impressively — measuring output quality, reducing hallucination, and designing workflows a student can actually trust with work that matters.
+Education is a **diagnostics problem** before it's a content problem — most students don't fail because resources don't exist; they fail because the right help doesn't arrive at the right moment.
+
+That's the lens I build through: using **LLMs**, **retrieval-augmented generation**, and **agentic workflows** not as novelty features, but as infrastructure that gives every student access to research support, feedback, and structure that used to require a tutor, an editor, or a senior colleague standing over their shoulder.
+
+I care about AI products that are **evaluated rigorously**, not just shipped impressively — measuring output quality, reducing hallucination, and designing workflows a student can actually trust with work that matters.
+
+</details>
 
 <br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:D6AD63&height=48&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=20&fontColor=FAF7F1&fontAlignY=55&stroke=00000000" width="100%" alt="Tech Stack"/>
+
+<br/>
 
 **Frontend**
 
@@ -106,49 +166,93 @@ I care about AI products that are evaluated rigorously, not just shipped impress
 
 <br/>
 
-## 🚀 Current Projects
+<!-- ═══════════════════════════════════════════════════════════
+     PROJECTS
+     ═══════════════════════════════════════════════════════════ -->
 
-| Project | Description | Focus | Link |
-|---|---|---|---|
-| **Roylithia Scribe** | AI-powered academic writing platform — outlining, research, content generation, and citations | Next.js · LLMs · RAG | [scribe.roylithia.com](https://scribe.roylithia.com) |
-| **Roylithia Academy** | AI-powered learning platform with intelligent study tools and academic resources | Next.js · AI Agents · EdTech | [academy.roylithia.com](https://academy.roylithia.com) |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:D6AD63&height=48&section=header&text=%F0%9F%9A%80%20Current%20Projects&fontSize=20&fontColor=FAF7F1&fontAlignY=55&stroke=00000000" width="100%" alt="Current Projects"/>
 
 <br/>
 
-## 📊 GitHub Analytics
+| Project | Description | Stack | Link |
+| :-- | :-- | :-- | :-- |
+| **Roylithia Scribe** | AI academic writing — outlining, research, content generation, citations | Next.js · LLMs · RAG | [scribe.roylithia.com](https://scribe.roylithia.com) |
+| **Roylithia Academy** | AI learning platform with intelligent study tools and academic resources | Next.js · AI Agents · EdTech | [academy.roylithia.com](https://academy.roylithia.com) |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     GITHUB ANALYTICS
+     ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:D6AD63&height=48&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=20&fontColor=FAF7F1&fontAlignY=55&stroke=00000000" width="100%" alt="GitHub Analytics"/>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davidnsude951&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD63&icon_color=D6AD63&text_color=C9D1D9&ring_color=D6AD63" width="49%" alt="David's GitHub Stats" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=Davidnsude951&background=0D1117&ring=D6AD63&fire=D6AD63&currStreakLabel=D6AD63&sideLabels=C9D1D9&currStreakNum=FAF7F1&sideNums=FAF7F1&dates=8B949E&border=30363D&hide_border=true" width="49%" alt="David's GitHub Streak" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Davidnsude951&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6AD63&icon_color=D6AD63&text_color=C9D1D9&ring_color=D6AD63&border_radius=12"
+  height="165"
+  alt="GitHub Stats"
+/>
+&nbsp;
+<img
+  src="https://github-readme-streak-stats.demolab.com/?user=Davidnsude951&background=0D1117&ring=D6AD63&fire=D6AD63&currStreakLabel=D6AD63&sideLabels=C9D1D9&currStreakNum=FAF7F1&sideNums=FAF7F1&dates=8B949E&border_radius=12&hide_border=true"
+  height="165"
+  alt="GitHub Streak"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidnsude951&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD63&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidnsude951&bg_color=0D1117&color=D6AD63&line=D6AD63&point=FAF7F1&area=true&area_color=D6AD63&hide_border=true" width="98%" alt="Contribution Activity Graph" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidnsude951&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6AD63&text_color=C9D1D9&langs_count=8&border_radius=12&card_width=420"
+  height="165"
+  alt="Top Languages"
+/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Davidnsude951&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Davidnsude951&bg_color=0D1117&color=D6AD63&line=D6AD63&point=FAF7F1&area=true&area_color=D6AD63&hide_border=true&custom_title=Contribution%20Activity"
+  width="100%"
+  alt="Contribution Activity Graph"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Davidnsude951&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&title=D6AD63"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 <br/>
 
-## 📫 Contact
+<!-- ═══════════════════════════════════════════════════════════
+     CONTACT
+     ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1816,100:D6AD63&height=48&section=header&text=%F0%9F%93%AB%20Contact&fontSize=20&fontColor=FAF7F1&fontAlignY=55&stroke=00000000" width="100%" alt="Contact"/>
+
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-davidnsude951%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=D6AD63)](mailto:davidnsude951@gmail.com)
-[![Scribe](https://img.shields.io/badge/Product-Roylithia_Scribe-0D1117?style=flat-square&logo=googlechrome&logoColor=D6AD63)](https://scribe.roylithia.com)
-[![Academy](https://img.shields.io/badge/Product-Roylithia_Academy-0D1117?style=flat-square&logo=googlechrome&logoColor=D6AD63)](https://academy.roylithia.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Davidnsude951-0D1117?style=flat-square&logo=github&logoColor=D6AD63)](https://github.com/Davidnsude951)
+[![Email](https://img.shields.io/badge/Email-davidnsude951%40gmail.com-D6AD63?style=for-the-badge&logo=gmail&logoColor=1A1816&labelColor=0D1117)](mailto:davidnsude951@gmail.com)
+[![Scribe](https://img.shields.io/badge/Product-Roylithia_Scribe-D6AD63?style=for-the-badge&logo=googlechrome&logoColor=1A1816&labelColor=0D1117)](https://scribe.roylithia.com)
+[![Academy](https://img.shields.io/badge/Product-Roylithia_Academy-D6AD63?style=for-the-badge&logo=googlechrome&logoColor=1A1816&labelColor=0D1117)](https://academy.roylithia.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Davidnsude951-D6AD63?style=for-the-badge&logo=github&logoColor=1A1816&labelColor=0D1117)](https://github.com/Davidnsude951)
 
 </div>
 
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6AD63,50:2A2520,100:1A1816&height=120&section=footer&stroke=00000000" width="100%" alt="footer wave"/>
 
 *Building the AI-powered future of education — one student workflow at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D6AD63,100:1A1816&height=4&section=footer" width="100%" alt="divider" />
 
 </div>
