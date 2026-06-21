@@ -20,12 +20,8 @@
 
 <br/><br/>
 
-<!-- Snake: needs .github/workflows/snake.yml in your Davidnsude951/Davidnsude951 repo (see profile-snake-workflow.yml in this project) -->
-<img
-  src="https://raw.githubusercontent.com/Davidnsude951/Davidnsude951/output/github-contribution-grid-snake.svg"
-  alt="Contribution snake animation"
-  width="100%"
-/>
+<!-- Live chart (works immediately). Snake replaces this after you run the workflow once. -->
+<img src="https://ghchart.rshah.org/4A7C62/Davidnsude951" alt="Contribution chart" width="100%" />
 
 <br/>
 
@@ -38,11 +34,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:326B52,50:4A7C62,100:D4AF37&height=4&section=header&stroke=00000000" width="100%" alt="divider"/>
+![About Me](https://img.shields.io/badge/About_Me-───────────────────────-D4AF37?style=for-the-badge&labelColor=326B52&color=1A2820)
 
 <br/>
-
-### About Me
 
 I'm a **Software Engineer**, **AI Product Builder**, and **Startup Founder** from Nigeria — balancing a Medical Radiography degree with shipping production AI systems end-to-end: architecture, backend, frontend, and the language-model pipelines that hold them together.
 
@@ -62,7 +56,7 @@ const david = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A110D,50:326B52,100:D4AF37&height=48&section=header&text=%F0%9F%8F%9B%EF%B8%8F%20Founder%20%E2%80%94%20Roylithia%20Global%20Technologies&fontSize=20&fontColor=F4F7F6&fontAlignY=55&stroke=00000000" width="100%" alt="Founder — Roylithia Global Technologies"/>
+![Founder](https://img.shields.io/badge/Founder-Roylithia_Global_Technologies-4A7C62?style=for-the-badge&labelColor=0A110D&color=D4AF37)
 
 <br/>
 
@@ -70,35 +64,27 @@ I founded **Roylithia Global Technologies** to build AI-powered education techno
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### Roylithia Scribe
-**AI-Powered Academic Writing Platform**
+[![Roylithia Scribe](https://img.shields.io/badge/Roylithia_Scribe-AI_Academic_Writing_Platform-1A2820?style=for-the-badge&logo=readthedocs&logoColor=D4AF37&labelColor=0A110D)](https://scribe.roylithia.com)
 
 Outlines, research, content generation, citations, and productivity — from first draft to final submission.
 
 <br/>
 
-[![Visit Scribe](https://img.shields.io/badge/Visit-scribe.roylithia.com-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0A110D&labelColor=1A2820)](https://scribe.roylithia.com)
+[![Visit Scribe](https://img.shields.io/badge/Launch-scribe.roylithia.com-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=0A110D&labelColor=326B52)](https://scribe.roylithia.com)
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-#### Roylithia Academy
-**AI-Powered Learning Platform**
+[![Roylithia Academy](https://img.shields.io/badge/Roylithia_Academy-AI_Learning_Platform-1A2820?style=for-the-badge&logo=graduationcap&logoColor=4A7C62&labelColor=0A110D)](https://academy.roylithia.com)
 
 Intelligent study tools, academic resources, and AI-assisted personalized learning workflows for university students.
 
 <br/>
 
-[![Visit Academy](https://img.shields.io/badge/Visit-academy.roylithia.com-4A7C62?style=for-the-badge&logo=googlechrome&logoColor=F4F7F6&labelColor=1A2820)](https://academy.roylithia.com)
+[![Visit Academy](https://img.shields.io/badge/Launch-academy.roylithia.com-4A7C62?style=for-the-badge&logo=googlechrome&logoColor=F4F7F6&labelColor=326B52)](https://academy.roylithia.com)
 
-</td>
-</tr>
-</table>
-
+</div>
 <br/>
 
 <details open>
@@ -115,7 +101,7 @@ I care about AI products that are **evaluated rigorously**, not just shipped imp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A110D,50:326B52,100:D4AF37&height=48&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=20&fontColor=F4F7F6&fontAlignY=55&stroke=00000000" width="100%" alt="Tech Stack"/>
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-───────────────────────-D4AF37?style=for-the-badge&labelColor=326B52&color=1A2820)
 
 <br/>
 
@@ -148,7 +134,7 @@ I care about AI products that are **evaluated rigorously**, not just shipped imp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A110D,50:326B52,100:D4AF37&height=48&section=header&text=%F0%9F%9A%80%20Current%20Projects&fontSize=20&fontColor=F4F7F6&fontAlignY=55&stroke=00000000" width="100%" alt="Current Projects"/>
+![Current Projects](https://img.shields.io/badge/Current_Projects-───────────────────────-4A7C62?style=for-the-badge&labelColor=0A110D&color=D4AF37)
 
 <br/>
 
@@ -159,7 +145,7 @@ I care about AI products that are **evaluated rigorously**, not just shipped imp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A110D,50:326B52,100:D4AF37&height=48&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=20&fontColor=F4F7F6&fontAlignY=55&stroke=00000000" width="100%" alt="GitHub Analytics"/>
+![GitHub Analytics](https://img.shields.io/badge/GitHub_Analytics-───────────────────────-326B52?style=for-the-badge&labelColor=1A2820&color=D4AF37)
 
 <br/>
 
@@ -204,7 +190,7 @@ I care about AI products that are **evaluated rigorously**, not just shipped imp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A110D,50:326B52,100:D4AF37&height=48&section=header&text=%F0%9F%93%AB%20Contact&fontSize=20&fontColor=F4F7F6&fontAlignY=55&stroke=00000000" width="100%" alt="Contact"/>
+![Contact](https://img.shields.io/badge/Contact-───────────────────────-8B9E8F?style=for-the-badge&labelColor=0A110D&color=D4AF37)
 
 <br/>
 
